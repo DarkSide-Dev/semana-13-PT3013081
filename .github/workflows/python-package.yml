@@ -1,4 +1,4 @@
-name: Testar cadastro de usuários e turma
+name: Testar cadastro de usuários e da turma
 
 on:
   push:
